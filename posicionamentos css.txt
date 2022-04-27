@@ -1,0 +1,29 @@
+display inline n permite colocar altura e largura
+
+dsiplay block geralmente ocupa a largura toda
+podemos deslocar o elemento com o margin e utilizando margin auto
+
+text align justify n justifica a ultiam linha
+
+
+float: flutua o elemento, criando um novo contexto. ele pode ficar sobre um elemento, mas n sobre o conteúdo.
+o pai que guarda um float, ele perde a largura e altura, mas pode ser recuperado setando o overflow hidden no pai.
+diminuindo o browser, se os elementos float n couberem, ele cai para a proxima linha.
+clear limpa um contexto do float (left, right, both)
+
+static padrão
+
+relative mexer o elemento pegando por referencia o local de criação padrão do html
+
+z-index ex trazer um elemento pra frente do outro mudando o index padrao de 0 para 1
+
+absolute   move em relação a tela, menos qnd o pai do elemento está com o position diferente de static
+
+fixed 
+
+background-size estudar
+
+background-repeat
+
+
+ 

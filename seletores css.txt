@@ -1,0 +1,8 @@
+main > p os p filhos diretos do main
+
+img + p p primeiro irmão do img
+
+img ~ p todos os p após imagem
+
+
+.principal p:not(#missao) todos p menos o que tiver id missao
